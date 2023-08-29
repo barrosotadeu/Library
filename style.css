@@ -1,0 +1,13 @@
+#container{
+    display: flex;
+    gap: 70px;
+}
+
+.button-container{
+    display: flex;
+    gap: 30px;
+}
+
+#new-book{
+    margin-top: 50px;
+}
